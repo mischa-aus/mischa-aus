@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mischa-aus
 - 👀 I’m interested in learning the basics of coding.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 
 <!---
 mischa-aus/mischa-aus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
